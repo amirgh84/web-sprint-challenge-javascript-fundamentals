@@ -29,6 +29,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
 
+The difference netween 'foreach' and 'map' is returning value.
+the foreach method return undefined and map returns a new array with transforemed  elements 
 2. Explain the difference between a callback and a higher order function.
 
 3. Explain what a closure is.
